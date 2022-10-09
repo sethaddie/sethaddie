@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethaddie&label=Profile%20views&color=0e75b6&style=flat" alt="sethaddie" /> </p>
 
-- 🌍 **I'm based in:** **Nairobi, Kenya**
-- 🔭 **I am currently working on Python Projects:** **Python_Challange**
-- 📫 **You can reach me through:** **abayoseth@gmail.com**
-- 💬 **Ask me about:** **CyberSec | Hacking | Networking**
-- 🧠 ***I'm learning:*** **Pentesting | Python | CyberOPs**
+- 🌍 ***I'm based in:***  **Nairobi, Kenya**
+- 🔭 ***I am currently working on Python Projects:***  **Python_Challange**
+- 📫 ***You can reach me through:***  **abayoseth@gmail.com**
+- 💬 ***Ask me about:***  **CyberSec | Hacking | Networking**
+- 🧠 ***I'm learning:***  **Pentesting | Python | CyberOPs**
 
 
 <h3 align="left">Connect with me:</h3>
