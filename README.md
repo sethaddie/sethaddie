@@ -32,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethaddie&show_icons=true&locale=en&layout=compact" alt="sethaddie" /></p>
 
+<a href="https://github.com/sethaddie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethaddie&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethaddie&show_icons=true&locale=en" alt="sethaddie" /></p>
 
 
