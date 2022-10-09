@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valentine Seth</h1>
 <h3 align="center">Cyber Security & Network Enginner</h3>
-<img align="right alt="coding" width="400 src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
+<img align="right alt="coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethaddie&label=Profile%20views&color=0e75b6&style=flat" alt="sethaddie" /> </p>
