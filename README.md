@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentine Seth</h1>
 <h3 align="center">Cyber Security & Network Enginner</h3>
+<h3 align="center">A tech enthusiast , open minded willing to learn and grow my career.</h3>
+
 <img align="right" alt="coding" width="400" src="https://coindsyz.com/wp-content/uploads/2022/03/1584023795.gif">
 
 
