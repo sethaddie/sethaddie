@@ -36,5 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethaddie&" alt="sethaddie" /></p>
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/sethaddie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sethaddie" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/SethAddie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sethaddie" /></a></p><br><br>
 
