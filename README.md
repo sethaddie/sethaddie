@@ -33,7 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethaddie&show_icons=true&locale=en" alt="sethaddie" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sethaddie&" alt="sethaddie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethaddie&" alt="sethaddie" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sethaddie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sethaddie" /></a></p><br><br>
