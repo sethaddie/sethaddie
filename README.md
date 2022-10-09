@@ -9,6 +9,7 @@
 - 🔭I am currently working on Python Projects **Python_Challange**
 - 📫You can reach me through **abayoseth@gmail.com**
 - 💬 Ask me about **CyberSec | Hacking | Networking**
+- 🧠  I'm learning **Pentesting | Python | CyberOPs**
 
 
 <h3 align="left">Connect with me:</h3>
