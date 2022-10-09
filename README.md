@@ -29,6 +29,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SethAddie&&theme=xcode)](https://github.com/sethaddie)
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sethaddie&show_icons=true&locale=en&layout=compact" alt="sethaddie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethaddie&show_icons=true&locale=en" alt="sethaddie" /></p>
@@ -38,7 +39,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethaddie&" alt="sethaddie" /></p>
 
-<a href="https://github.com/sethaddie"><img src="https://activity-graph.herokuapp.com/graph?username=sethaddie&bg_color=581c87&color=ffffff&line=0891b2&point=ffffff&area_color=581c87&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/SethAddie"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sethaddie" /></a></p><br><br>
