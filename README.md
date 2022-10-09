@@ -37,7 +37,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethaddie&" alt="sethaddie" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sethaddie&&theme=tokyonight" alt="sethaddie" /></p>
+
 
 
 
