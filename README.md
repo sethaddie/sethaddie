@@ -6,13 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethaddie&label=Profile%20views&color=0e75b6&style=flat" alt="sethaddie" /> </p>
 
 
-- 🔭 Python Projects **Python_Challange**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sethaddie](https://github.com/sethaddie)
+- 🔭I am currently working on Python Projects **Python_Challange**
 
 - 📫You can reach me through **abayoseth@gmail.com**
 
-- 📄 Know about my experiences [https://addie.com](https://addie.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
