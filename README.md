@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sethaddie&label=Profile%20views&color=0e75b6&style=flat" alt="sethaddie" /> </p>
 
-<p align="left"> <a href="https://twitter.com/seth_addie" target="blank"><img src="https://img.shields.io/twitter/follow/sethaddie?logo=twitter&style=for-the-badge" alt="sethaddie" /></a> </p>
+<p align="left"> <a href="https://twitter.com/seth_addie" target="blank"><img src="https://img.shields.io/twitter/follow/sethaddie?logo=twitter&style=for-the-badge" alt="@sethaddie" /></a> </p>
 
 - 🔭 Python Projects **Python_Challange**
 
