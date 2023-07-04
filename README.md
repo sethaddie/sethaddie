@@ -13,7 +13,7 @@
 - 📫 **You can reach me through:**  **abayoseth@gmail.com**
 - 💬 **Ask me about:**  **CyberSec | Hacking | Networking**
 - 🧠 **I'm learning:**  **Pentesting | Python | CyberOPs**
-- 🌐 **Check out my website**   **valentine-seith.com**
+- 🌐 **Check out my website:**   **valentine-seith.com**
   
 
 
