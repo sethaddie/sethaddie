@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Valentine Seth</h1>
+ <h1 align="center">Hi 👋, I'm Valentine Seth</h1>
 <h3 align="center">Cyber Security & Network Enginner</h3>
 <h3 align="center">A tech enthusiast , open minded willing to learn and grow my career.</h3>
 
@@ -13,7 +13,7 @@
 - 📫 **You can reach me through:**  **abayoseth@gmail.com**
 - 💬 **Ask me about:**  **CyberSec | Hacking | Networking**
 - 🧠 **I'm learning:**  **Pentesting | Python | CyberOPs**
-- 🌐 **Check out my website**  **valentine-seith.com**
+- 🌐 **Check out my website**   **valentine-seith.com**
   
 
 
